@@ -1,0 +1,4 @@
+﻿1.algorithm_roc_data.py可以通过调用sklearn库运行knn、svm等算法，
+得到的结果分别保存在文件sk_learn_knn_Result.csv、sk_learn_SVM_Result.csv等
+
+2.draw_roc_file_or_array.py可以通过传入label的数据文件名或者存储RoCk数据的ROC_array绘制RoC图像。
